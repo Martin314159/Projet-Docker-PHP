@@ -1,0 +1,1 @@
+<?php $pdo = new PDO('mysql:host=db:3306;dbname=blog_docker', 'root', 'password'); ?>
